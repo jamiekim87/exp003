@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/jamiekim87/exp003#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
+    "chalk": "^4.1.0",
+    "uuid": "^8.3.0"
   }
 }
